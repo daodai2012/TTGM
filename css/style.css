@@ -403,7 +403,7 @@
 		top:10%;
 	}
 /*.ly-stxt01 {
-	font-family: Microsoft YaHei;
+	font-family: STXingkai;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -418,7 +418,7 @@
 	transition-delay: 3.5s;
 	}*/
 	.ly-stxt01 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -450,7 +450,7 @@
 	}
 
 	.ly-stxt02 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -485,7 +485,7 @@
 	}
 
 	.ly-stxt03 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -514,7 +514,7 @@
 	}
 
 	.ly-stxt04 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -543,7 +543,7 @@
 	}
 
 	.ly-stxt05 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -572,7 +572,7 @@
 	}
 
 	.ly-stxt06 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -600,7 +600,7 @@
 	}
 
 	.ly-stxt07 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -629,7 +629,7 @@
 	}
 
 	.ly-stxt08 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -658,7 +658,7 @@
 	}
 
 	.ly-stxt09 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -687,7 +687,7 @@
 	}
 
 	.ly-stxt10 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		font-color: #000;
 		position: relative;
@@ -1004,15 +1004,15 @@
 	}
 	/*文本*/
 	.ly-txt11 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
 		position: absolute;
-		left: 3%;
-		top: 4%;
+		right: 10%;
+		top: 13%;
 		opacity: 0;
-		transition: all 0.5s;
+		transition: all 3s;
 	}
 
 	.active .ly-txt11 {
@@ -1022,7 +1022,7 @@
 
 
 	.ly-txt12 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 20px;
 		text-indent:2em;
 		font-color: #000;
@@ -1088,7 +1088,7 @@
 	}
 	/*文本*/
 	.ly-txt13 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1106,8 +1106,9 @@
 
 	.ly-txt14 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
-		font-size: 18px;
+		/*font-family: STXingkai;*/
+		font-family: STXingkai;
+		font-size: 25px;
 		font-color: #000;
 		position: absolute;
 		margin-left:30px;
@@ -1221,7 +1222,7 @@
 	}
 	/*文本*/
 	.ly-txt21 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1239,15 +1240,18 @@
 
 
 	.ly-txt22 {
-		font-family: Microsoft YaHei;
-		font-size: 13px;
+		margin: auto 0;
+		font-family: STXingkai;
+		font-size: 21px;
 		text-indent:2em;
 		font-color: #000;
 		position: absolute;
-		left: 5%;
-		top: 8%;
+		left: 13%;
+		top: 3%;
 		opacity: 0;
 		transition: all 1s;
+		writing-mode: vertical-lr;
+		writing-mode: tb-lr;
 	}
 
 	.active .ly-txt22 {
@@ -1304,7 +1308,7 @@
 	}
 	/*文本*/
 	.ly-txt23 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1322,17 +1326,18 @@
 
 	.ly-txt24 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
-		font-size: 14px;
+		font-family: STXingkai;
+		font-size: 21px;
 		font-color: #000;
 		position: absolute;
 		width:80%;
-		top:11%;
+		/*top:0%;*/
 		margin-left:5%;
 		opacity: 0;
 		transition: all 0.5s;
 		width:88%;
 		overflow:hidden;
+	
 	}
 
 	.active .ly-txt24 {
@@ -1406,7 +1411,7 @@
 	}
 	/*文本*/
 	.ly-txt25 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1424,8 +1429,8 @@
 
 	.ly-txt26 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
-		font-size: 14px;
+		font-family: STXingkai;
+		font-size: 25px;
 		font-color: #000;
 		position: absolute;
 		width:80%;
@@ -1504,7 +1509,7 @@
 }
 .lk1{
 	text-decoration:none;
-	font-family: Microsoft YaHei;
+	font-family: STXingkai;
 	color:#fff;
 	transition:all 0.5s;
 }
@@ -1630,7 +1635,7 @@ a.lk1:hover {
 	}
 	/*文本*/
 	.ly-txt31 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1648,7 +1653,7 @@ a.lk1:hover {
 
 
 	.ly-txt32 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 20px;
 		text-indent:2em;
 		font-color: #000;
@@ -1714,7 +1719,7 @@ a.lk1:hover {
 	}
 	/*文本*/
 	.ly-txt33 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 30px;
 		text-shadow: 1px;
 		font-color: #000;
@@ -1732,7 +1737,7 @@ a.lk1:hover {
 
 	.ly-txt34 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 18px;
 		font-color: #000;
 		position: absolute;
@@ -1792,7 +1797,7 @@ a.lk1:hover {
 	}
 	.ly-txt51 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -1854,7 +1859,7 @@ a.lk1:hover {
 	}
 	.ly-txt61 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -1880,7 +1885,7 @@ a.lk1:hover {
 
 	.ly-txt71 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2059,7 +2064,7 @@ a.lk1:hover {
 	}
 	.ly-txt72 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2099,7 +2104,7 @@ a.lk1:hover {
 
 	.ly-txt73 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2161,7 +2166,7 @@ a.lk1:hover {
 		transition-delay: 2.5s;
 	}
 	.ly-txt82 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		text-indent:1em;
 		font-color: #000;
@@ -2249,7 +2254,7 @@ a.lk1:hover {
 
 	.ly-txt84 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 15px;
 		font-color: #000;
 		position: absolute;
@@ -2268,7 +2273,7 @@ a.lk1:hover {
 		transition-delay: 6.5s;
 	}
 	.ly-txt90 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2286,7 +2291,7 @@ a.lk1:hover {
 		transition-delay: 4.5s;
 	}
 	.ly-txt91 {
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2465,7 +2470,7 @@ a.lk1:hover {
 	}
 	.ly-txt92 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
@@ -2505,7 +2510,7 @@ a.lk1:hover {
 
 	.ly-txt93 {
 		text-indent:2em;
-		font-family: Microsoft YaHei;
+		font-family: STXingkai;
 		font-size: 14px;
 		font-color: #000;
 		position: absolute;
