@@ -70,6 +70,7 @@ body :-ms-input-placeholder {
   -webkit-transition-timing-function: ease-in-put;
           transition-timing-function: ease-in-put;
   font-weight: 200;
+  font-family: STXingkai;
 }
 form {
   padding: 20px 0;
@@ -110,7 +111,7 @@ form button {
           appearance: none;
   outline: 0;
   background-color: white;
-  font-family: "Microsoft YaHei";
+  font-family: "STXingkai";
   border: 0;
   padding: 10px 15px;
   color: #ee9ca7;
@@ -120,6 +121,7 @@ form button {
   font-size: 18px;
   -webkit-transition-duration: 0.25s;
           transition-duration: 0.25s;
+        
 }
 form button:hover {
   background-color: #f5f7f9;
